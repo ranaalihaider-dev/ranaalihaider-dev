@@ -1,6 +1,6 @@
 # haider.dev
 
-<img align="right" alt="HaiderCodex" width="350" margin-top:4px src="https://i.pinimg.com/236x/68/df/de/68dfdecaf0b8868a70fa9c9a09ab760e.jpg">
+<img align="right" alt="HaiderCodex" width="350" margin-buttom:0 src="https://i.pinimg.com/564x/1d/8d/b1/1d8db1c256c0002d9229a214c28063ff.jpg">
 
 
 <h1 align="center">Hi 👋, I'm Rana Ali Haider </h1>
