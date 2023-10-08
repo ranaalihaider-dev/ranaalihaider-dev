@@ -5,7 +5,7 @@
 <h1 align="center">Hi 👋, I'm Rana Ali Haider </h1>
 <h3 align="center">A passionate Software developer.</h3>
 
-<img align="right" alt="HaiderCodex" width="350" src="https://i.pinimg.com/originals/19/72/14/197214de7cdd4b4a79dd9924a254196f.gif">
+<img align="right" alt="HaiderCodex" width="350" src="https://i.pinimg.com/originals/cc/e3/35/cce33562d66c89fb83a0600058012135.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=haider-nawaab&label=Profile%20views&color=0e75b6&style=flat" alt="haider-nawaab" /> </p>
 
