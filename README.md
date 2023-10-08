@@ -1,6 +1,5 @@
 # haider.dev
-
-<img align="right" alt="HaiderCodex" width="350" margin-buttom:0 src="https://i.pinimg.com/564x/1d/8d/b1/1d8db1c256c0002d9229a214c28063ff.jpg">
+![logo](https://github.com/Haider-Nawaab/Haider-Nawaab/blob/main/GitHub%20Banner/haider-codex.png)
 
 
 <h1 align="center">Hi 👋, I'm Rana Ali Haider </h1>
